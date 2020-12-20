@@ -1,4 +1,4 @@
-![Logo]stripe-logo-blue.png
+![Logo](stripe-logo-blue.png)
 
 # Stripe – Case Study
 
@@ -26,6 +26,8 @@ At this stage of the industry development, it was unclear how big the market for
 By the fall of 2010, the brothers were working full time on the project, by June 2011, the brand design was in production, in 2012 the company moved from Palo Alto to San Francisco, and by 2013, stripe made its first acquisition, Kickoff. 
 
 * How is the company funded? How much funding have they received?
+
+![funding 2](funding-history-and-valuation.png)
 
 According to Crunchbase, Stripe has raised a total of $1.6B in funding through 14 rounds of funding. Their latest funding was raised on May 28, 2020 from a Secondary Market round. The company has been valued to be in the range of $10B+ as of Apr 16, 2020, according to PrivCo. Of note, Peter Thiel was among the early funders of Stripe. 
 
@@ -67,6 +69,8 @@ Competitors for Stripe include other FinTech companies such as Square, Paypal, A
 
 
 ## Results
+
+![revenues](Revenues.png)
 
 My most measures, Stripe has been incredibly effective in disrupting the payments industry and providing value for merchant customers. In 2020, it was named as the number 1 disruptor company by CNBC. Its growing customer base and attractiveness by large companies such as Lyft, Amazon, Slack, Glossier, Shopify, and Airbnb have contributed to its $36 billion valuation. 
 
